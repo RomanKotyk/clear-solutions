@@ -10,7 +10,7 @@ Testing | Spring
 
 **Requirements:**
 1. It has the following fields:
-  1.1. Email (required). Add validation against email pattern
+  1.1. Email (required). Add validation against email pattern<br>
   1.2. First name (required)
   1.3. Last name (required)
   1.4. Birth date (required). Value must be earlier than current date
